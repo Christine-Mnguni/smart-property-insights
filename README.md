@@ -1,3 +1,5 @@
+<img width="116" height="20" alt="image" src="https://github.com/user-attachments/assets/4ba31718-0027-40ea-87c7-639c18acea15" />
+
 # Smart Property Investment Insights
 ### AI & Data Analytics Portfolio Project
 
