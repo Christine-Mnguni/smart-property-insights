@@ -1,0 +1,49 @@
+{
+  "dataset": {
+    "raw_rows": 2020,
+    "clean_rows": 2000,
+    "features": 30
+  },
+  "models": {
+    "random_forest": {
+      "RMSE": 1056106.22,
+      "MAE": 502643.53,
+      "R2": 0.8662
+    },
+    "gradient_boosting": {
+      "RMSE": 992048.27,
+      "MAE": 415205.75,
+      "R2": 0.8819
+    },
+    "best_model": "Gradient Boosting"
+  },
+  "clusters": {
+    "0": {
+      "count": 388,
+      "avg_price": 6275335.35,
+      "avg_rental_yield": 5.98
+    },
+    "1": {
+      "count": 555,
+      "avg_price": 1601120.53,
+      "avg_rental_yield": 7.68
+    },
+    "2": {
+      "count": 487,
+      "avg_price": 4199000.0,
+      "avg_rental_yield": 5.73
+    },
+    "3": {
+      "count": 570,
+      "avg_price": 2298024.28,
+      "avg_rental_yield": 6.13
+    }
+  },
+  "top_investment_regions": [
+    "Rosebank",
+    "Sandton",
+    "Cape Town CBD",
+    "Waterfront",
+    "Stellenbosch"
+  ]
+}
