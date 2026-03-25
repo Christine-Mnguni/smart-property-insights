@@ -305,9 +305,8 @@ yield calculation, and investment rating.
 
 ## Author
 
-**[Your Name]**  
+**Christine Mnguni**  
 Data Scientist | Python · Machine Learning · Analytics  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
 
 ---
 
